@@ -11,7 +11,7 @@
     <a href="Checkout/index.html">Checkout</a>
   </div>
   <div style="padding-left:16px">
-    <h1> This is your First Maven Build Project </h1>
+    <h1> This is your First Maven Build Project in AWS Environment </h1>
   </div>
 </body>
 </html>
