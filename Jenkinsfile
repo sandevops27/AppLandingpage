@@ -6,6 +6,12 @@ pipeline {
                 // Get  code from a GitHub repository
                 git credentialsId: 'git', url: 'https://github.com/sandevops27/AppLandingpage'
             }
+        }
+        stage('Print') {
+            steps {
+                // Get  code from a GitHub repository
+                echo "Done"
+            }
 
         }
     }
