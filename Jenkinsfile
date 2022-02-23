@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Print') {
             steps {
-                // Get  code from a GitHub repository
+               // Print Sucess Message
                 echo "Done"
             }
 
