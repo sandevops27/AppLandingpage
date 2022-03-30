@@ -5,7 +5,7 @@
   <link href="style.css"> 
 <body>
   <div style="padding-left:16px">
-    <h1> Capstone Project -2 CI/CD Deploy the Artifacts into Docker Container Using Ansible</h1>
+    <h1> Capstone Project -1 CI/CD Deploy the Artifacts into Apache Tomcat server</h1>
   </div>
 </body>
 </html>
