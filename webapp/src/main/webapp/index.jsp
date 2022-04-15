@@ -5,8 +5,7 @@
   <link href="style.css"> 
 <body>
   <div style="padding-left:16px">
-    <h1> Capstone Project - 3 CI/CD Deploy the Artifacts into Docke Container V2</h1>
-    <h1> Successfully CICD Deploymnet Completed </h1>
+    <h1> Capstone Project - 1 CI/CD Deploy the Artifacts into Tomcat Server</h1>
   </div>
 </body>
 </html>
