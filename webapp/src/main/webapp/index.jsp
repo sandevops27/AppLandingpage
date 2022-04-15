@@ -5,7 +5,7 @@
   <link href="style.css"> 
 <body>
   <div style="padding-left:16px">
-    <h1> Capstone Project -1 CI/CD Deploy the Artifacts into Apache Tomcat server</h1>
+    <h1> Capstone Project - 3 CI/CD Deploy the Artifacts into Docke Container</h1>
   </div>
 </body>
 </html>
