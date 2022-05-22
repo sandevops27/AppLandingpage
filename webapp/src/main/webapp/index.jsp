@@ -5,8 +5,7 @@
   <link href="style.css"> 
 <body>
   <div style="padding-left:16px">
-    <h1> Day 3 Free Aws DevOps Session</h1>
-     <h1> Auto Deployment </h1>
+    <h1>CI/CD Deployment using Docker Container </h1>
   </div>
 </body>
 </html>
